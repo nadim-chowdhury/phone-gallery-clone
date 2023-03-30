@@ -1,0 +1,13 @@
+img {
+  width: 25%;
+}
+
+.img {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.img-fscreen{
+    width: 90%;
+}
